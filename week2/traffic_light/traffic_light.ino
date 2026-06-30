@@ -1,8 +1,3 @@
-/*
- * Project: 3-LED Traffic Light with Pedestrian Button
- * Question: Q14
- * Author: [Shashwat Singh]
- */
 
 #include <Arduino.h>
 
