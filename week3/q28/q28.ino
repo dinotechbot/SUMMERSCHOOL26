@@ -1,8 +1,4 @@
-/*
- * Project: Keypad + LCD Password Entry System
- * Question: Q28
- * Author: [Shashwat Singh]
- */
+
 
 #include <Keypad.h>
 #include <LiquidCrystal.h>
