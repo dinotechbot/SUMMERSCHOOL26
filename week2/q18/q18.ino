@@ -1,8 +1,4 @@
-/*
- * Project: Vending Machine Finite State Machine
- * Question: Q18
- * Author: [Shashwat Singh]
- */
+
 
 #include <Arduino.h>
 
