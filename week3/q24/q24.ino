@@ -1,13 +1,4 @@
-/*
- * Project: Multi-Sensor Logger (DHT11 + LDR + HC-SR04)
- * Question: Q24
- * Author: [Shashwat Singh]
- * Description: Reads temperature/humidity (DHT11), light level (LDR), and distance (HC-SR04)
- *              every 5 seconds. Outputs in standardized block format with proper labels.
- *              Temperature labels: "Extreme" (>35°C), "Normal" (15-35°C), "Cold" (<15°C)
- *              Light labels: "Bright" (>75%), "Dim" (25-75%), "Dark" (<25%)
- *              Requires: DHT library by Adafruit
- */
+
 
 #include "DHT.h"
 #include <Arduino.h>
