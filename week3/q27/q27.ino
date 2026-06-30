@@ -1,8 +1,4 @@
-/*
- * Project: Relay Control
- * Question: Q27
- * Author: [Shashwat Singh]
- */
+
 
 #include "DHT.h"
 #include <Arduino.h>
