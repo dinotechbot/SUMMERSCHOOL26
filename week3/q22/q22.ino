@@ -1,13 +1,3 @@
-/*
- * Project: HC-SR04 Ultrasonic Parking Sensor
- * Question: Q22
- * Author: [Shashwat Singh]
- * Description: Measures distance using HC-SR04 ultrasonic sensor.
- *              Distance = (duration * 0.034) / 2 cm
- *              Thresholds: >50cm SAFE, 20-50cm CAUTION (yellow + beep 500ms),
- *              10-20cm WARNING (red + beep 200ms), <10cm DANGER (flash + continuous beep).
- *              BONUS: Uses 100% non-blocking millis() timing (ZERO delay() calls).
- */
 
 #include <Arduino.h>
 
