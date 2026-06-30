@@ -1,8 +1,4 @@
-/*
- * Project: Bluetooth LED Controller (HC-05 + Arduino)
- * Question: Q31
- * Author: [Shashwat Singh]
- */
+
 
 #include <SoftwareSerial.h>
 
