@@ -1,8 +1,3 @@
-/*
- * Project: Bluetooth Sensor Dashboard (ESP32 BLE)
- * Question: Q32
- * Author: [Shashwat Singh]
- */
 
 #include <BLEDevice.h>
 #include <BLEServer.h>
