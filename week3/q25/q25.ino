@@ -1,8 +1,4 @@
-/*
- * Project: Servo Control with Potentiometer Mapping
- * Question: Q25
- * Author: [Shashwat Singh]
- */
+
 
 #include <Servo.h>
 #include <Arduino.h>
