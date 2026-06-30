@@ -31,30 +31,6 @@ The primary objective of this repository is to strengthen my understanding of **
 
 ---
 
-# 📂 Repository Structure
-
-```
-Summer-School-2026/
-│
-├── Week1/
-│   ├── LED_Blink/
-│   ├── LED_Fade/
-│   ├── Button/
-│   └── README.md
-│
-├── Week2/
-│   ├── DHT11/
-│   ├── Weather_Station/
-│   ├── API_Integration/
-│   └── README.md
-│
-├── Images/
-├── Documents/
-└── README.md
-```
-
----
-
 # 🌟 Skills Gained
 
 Throughout this Summer School, I am developing practical skills in:
@@ -108,18 +84,6 @@ Through this Summer School, I aim to:
 - Create a strong portfolio of IoT projects
 
 ---
-
-# 📈 Future Plans
-
-This repository will continue to grow with more IoT projects, including:
-
-- Smart Weather Dashboard
-- Warehouse Data Logger
-- Home Automation System
-- Smart Irrigation System
-- Air Quality Monitoring System
-- Cloud-Based IoT Dashboards
-- ESP32 Web Server Projects
 
 ---
 
