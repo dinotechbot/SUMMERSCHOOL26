@@ -1,9 +1,4 @@
-/*
- * Project: DHT11 Weather Station
- * Question: Q21
- * Author: [Shashwat Singh]
- * Requires: DHT library by Adafruit (install via Arduino IDE Library Manager)
- */
+
 
 #include "DHT.h"
 #include <Arduino.h>
