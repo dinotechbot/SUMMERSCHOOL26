@@ -1,15 +1,4 @@
 
-
-
-
-
-
-/*
- * Project: DC Motor Control with L298N Driver
- * Question: Q26
- * Author: [Shashwat Singh]
- */
-
 #include <Arduino.h>
 
 // L298N Pin Configuration
