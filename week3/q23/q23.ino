@@ -1,8 +1,4 @@
-/*
- * Project: Smart Street Light with LDR and PIR Motion Detection
- * Question: Q23
- * Author: [Shashwat Singh]
- */
+
 
 #include <Arduino.h>
 
